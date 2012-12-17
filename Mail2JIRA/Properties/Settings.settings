@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mail2JIRA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JiraApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:8090/rest/api/2/</Value>
+    </Setting>
+    <Setting Name="JiraUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fred</Value>
+    </Setting>
+    <Setting Name="JiraPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fred</Value>
+    </Setting>
+    <Setting Name="JiraIssueBrowseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:8090/browse/</Value>
+    </Setting>
+    <Setting Name="JiraDestinationProjectKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TEST</Value>
+    </Setting>
+    <Setting Name="JiraDestiantionIssueType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bug</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
